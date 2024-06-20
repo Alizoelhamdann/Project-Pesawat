@@ -1,0 +1,26 @@
+[
+    {
+        "maskapai": "air asia",
+        "bandara_asal": "Juanda (SUB)",
+        "bandara_tujuan": "Hasanuddin (UPG)",
+        "harga": "20000",
+        "total_tax": 110000,
+        "total_harga": 130000
+    },
+    {
+        "maskapai": "CITLINK",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "INX",
+        "harga": "100000",
+        "total_tax": 0,
+        "total_harga": 100000
+    },
+    {
+        "maskapai": "Garuda",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga": "102000",
+        "total_tax": 130000,
+        "total_harga": 232000
+    }
+]
