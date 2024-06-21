@@ -1,5 +1,13 @@
 [
     {
+        "maskapai": "aa",
+        "bandara_asal": "Soekarno-Hatta(CGK)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "189000",
+        "total_tax": 70000,
+        "total_harga": 259000
+    },
+    {
         "maskapai": "abi",
         "bandara_asal": "Husein Sastranegara (BDO)",
         "bandara_tujuan": "Inanwatan (INX)",
