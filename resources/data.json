@@ -1,26 +1,58 @@
 [
     {
-        "maskapai": "air asia",
-        "bandara_asal": "Juanda (SUB)",
-        "bandara_tujuan": "Hasanuddin (UPG)",
-        "harga": "20000",
-        "total_tax": 110000,
-        "total_harga": 130000
+        "maskapai": "abi",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga": "30000",
+        "total_tax": 120000,
+        "total_harga": 150000
     },
     {
-        "maskapai": "CITLINK",
-        "bandara_asal": "Husein Sastranegara (BDO)",
-        "bandara_tujuan": "INX",
-        "harga": "100000",
-        "total_tax": 0,
+        "maskapai": "Ali",
+        "bandara_asal": "Soekarno-Hatta(CGK)",
+        "bandara_tujuan": "Hasanuddin (UPG)",
+        "harga": "30000",
+        "total_tax": 70000,
         "total_harga": 100000
     },
     {
-        "maskapai": "Garuda",
-        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "maskapai": "alizoel",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "10000",
+        "total_tax": 100000,
+        "total_harga": 110000
+    },
+    {
+        "maskapai": "mayesa",
+        "bandara_asal": "Juanda (SUB)",
         "bandara_tujuan": "Inanwatan (INX)",
-        "harga": "102000",
+        "harga": "310010",
         "total_tax": 130000,
-        "total_harga": 232000
+        "total_harga": 440010
+    },
+    {
+        "maskapai": "nizar",
+        "bandara_asal": "Soekarno-Hatta(CGK)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "20000",
+        "total_tax": 70000,
+        "total_harga": 90000
+    },
+    {
+        "maskapai": "tyara",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "310000",
+        "total_tax": 110000,
+        "total_harga": 420000
+    },
+    {
+        "maskapai": "zoto",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga": "3000",
+        "total_tax": 120000,
+        "total_harga": 123000
     }
 ]

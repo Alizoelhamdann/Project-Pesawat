@@ -66,8 +66,8 @@ usort($routes, 'sortRoutesByName');
 // Menyimpan kembali $routes yang sudah diupdate ke dalam file data.json
 file_put_contents('data.json', json_encode($routes, JSON_PRETTY_PRINT));
 
-// Redirect ke halaman config.php setelah proses selesai
-header("Location: config.php");
+// Redirect ke halaman index.php setelah proses selesai
+header("Location: index.php");
 exit();
 
 ?>
